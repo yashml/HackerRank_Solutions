@@ -8,8 +8,3 @@ This repository contains my solutions to:
 | Challenge | Languages Solved In |
 | -- | -- |
 | [10 Days of Statistics](https://github.com/yashml/HackerRank_Solutions/tree/master/10_Days_of_Statistics/Day%200) | Python 3 |
-
-
-
-
-
