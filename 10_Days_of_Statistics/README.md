@@ -12,3 +12,6 @@
 | 2 | Basic Probability | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%202/Basic%20Probability.py) |
 | 2 | More Dice | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%202/More%20Dice.py) |
 | 2 | Compound Event Probability | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%202/Compound%20Event%20Probability.py) |
+| 3 | Conditional Probability | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%203/Conditional%20Probability.py) |
+| 3 | Cards of the Same Suit | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%203/Cards%20of%20the%20Same%20Suit.py) |
+| 3 | Drawing Marbles | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%203/Drawing%20Marbles.py) |
