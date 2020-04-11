@@ -9,3 +9,6 @@
 | 1 | Quartiles | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%201/Quartiles.py) |
 | 1 | Interquartile Range  | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%201/Interquartile%20Range.py) |
 | 1 | Standard Deviation | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%201/Standard%20Deviation.py) |
+| 2 | Basic Probability | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%202/Basic%20Probability.py) |
+| 2 | More Dice | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%202/More%20Dice.py) |
+| 2 | Compound Event Probability | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%202/Compound%20Event%20Probability.py) |
