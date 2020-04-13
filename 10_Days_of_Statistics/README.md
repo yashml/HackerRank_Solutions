@@ -19,3 +19,7 @@
 | 4 | Binomial Ditribution II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Binomial%20Ditribution%20II.py) |
 | 4 | Geometric Distribution I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Geometric%20Distribution%20I.py) |
 | 4 |Geometric Distribution II| 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Geometric%20Distribution%20II.py) |
+| 5 | Poisson Distribution I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Poisson%20Distribution%20I.py) |
+| 5 | Poisson Distribution II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Poisson%20Distribution%20II.py) |
+| 5 | Normal Distribution I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Normal%20Distribution%20I.py) |
+| 5 | Normal Distribution II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Normal%20Distribution%20II.py) |
