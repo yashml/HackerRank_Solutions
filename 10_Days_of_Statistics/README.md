@@ -15,3 +15,7 @@
 | 3 | Conditional Probability | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%203/Conditional%20Probability.py) |
 | 3 | Cards of the Same Suit | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%203/Cards%20of%20the%20Same%20Suit.py) |
 | 3 | Drawing Marbles | 10 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%203/Drawing%20Marbles.py) |
+| 4 | Binomial Distribution I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Binomial%20Distribution%20I.py) |
+| 4 | Binomial Ditribution II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Binomial%20Ditribution%20II.py) |
+| 4 | Geometric Distribution I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Geometric%20Distribution%20I.py) |
+| 4 |Geometric Distribution II| 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%204/Geometric%20Distribution%20II.py) |
