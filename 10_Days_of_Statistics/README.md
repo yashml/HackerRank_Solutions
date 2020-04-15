@@ -23,3 +23,7 @@
 | 5 | Poisson Distribution II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Poisson%20Distribution%20II.py) |
 | 5 | Normal Distribution I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Normal%20Distribution%20I.py) |
 | 5 | Normal Distribution II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%205/Normal%20Distribution%20II.py) |
+| 6 | The Central Limit Theorem I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%206/The%20Central%20Limit%20Theorem%20I.py) |
+| 6 | The Central Limit Theorem II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%206/The%20Central%20Limit%20Theorum%20II.py) |
+| 6 | The Central Limit Theorem III | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%206/The%20Central%20Limit%20Theorum%20III.py) |
+
