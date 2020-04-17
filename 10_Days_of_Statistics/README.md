@@ -30,3 +30,4 @@
 | 7 | Spearman's Rank Correlation Coefficient | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%207/Spearman's%20Rank%20Correlation%20Coefficient.py) |
 | 8 | Least Square Regression Line | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%208/Least%20Square%20Regression%20Line.py) |
 | 8 | Pearson Correlation Coefficient II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%208/Pearson%20Correlation%20Coefficient%20II.py) |
+| 9 | Multiple Linear Regression | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%209/Multiple%20Linear%20Regression.py) |
