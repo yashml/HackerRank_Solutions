@@ -28,3 +28,5 @@
 | 6 | The Central Limit Theorem III | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%206/The%20Central%20Limit%20Theorum%20III.py) |
 | 7 | Pearson Correlation Coefficient I | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%207/Pearson%20Correlation%20Coefficient%20I.py) |
 | 7 | Spearman's Rank Correlation Coefficient | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%207/Spearman's%20Rank%20Correlation%20Coefficient.py) |
+| 8 | Least Square Regression Line | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%208/Least%20Square%20Regression%20Line.py) |
+| 8 | Pearson Correlation Coefficient II | 30 | [Python](https://github.com/yashml/HackerRank_Solutions/blob/master/10_Days_of_Statistics/Day%208/Pearson%20Correlation%20Coefficient%20II.py) |
