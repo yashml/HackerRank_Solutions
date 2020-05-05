@@ -14,3 +14,4 @@
 | 7 | Arrays | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%207/Arrays.cpp) |
 | 8 | Dictionaries and Maps | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%208/Dictionaries%20and%20Maps.cpp) |
 | 9 | Recursion 3 | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%209/Recursion%203.cpp) |
+| 10 | Binary Numbers | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2010/Binary%20Numbers.cpp) |
