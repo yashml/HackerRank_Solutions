@@ -16,3 +16,4 @@
 | 9 | Recursion 3 | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%209/Recursion%203.cpp) |
 | 10 | Binary Numbers | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2010/Binary%20Numbers.cpp) |
 | 11 | 2D Arrays | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2011/2D%20Arrays.cpp) |
+| 12 | Inheritance | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2012/Inheritance.cpp) |
