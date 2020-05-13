@@ -21,3 +21,4 @@
 | 14 | Scope | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2014/Scope.cpp) |
 | 15 | Linked List | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2015/Linked%20List.cpp) |
 | 16 | Exceptions - String to Integer | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2016/Exceptions%20-%20String%20to%20Integer.cpp) |
+| 17 | More Exceptions | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2017/More%20Exceptions.cpp) |
