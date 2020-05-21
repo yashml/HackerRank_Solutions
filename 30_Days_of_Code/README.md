@@ -23,3 +23,6 @@
 | 16 | Exceptions - String to Integer | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2016/Exceptions%20-%20String%20to%20Integer.cpp) |
 | 17 | More Exceptions | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2017/More%20Exceptions.cpp) |
 | 18 | Queues and Stacks | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2018/Queues%20and%20Stacks.cpp) |
+| 19 | Interfaces | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2019/Interfaces.cpp) |
+| 20 | Sorting | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2020/Sorting.cpp) |
+| 21 | Generics | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2021/Generics.cpp) |
