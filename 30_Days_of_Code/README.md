@@ -27,3 +27,5 @@
 | 20 | Sorting | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2020/Sorting.cpp) |
 | 21 | Generics | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2021/Generics.cpp) |
 | 22 | Binary Search Trees | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2022/Binary%20Search%20Trees.cpp) |
+| 23 | BST Level-Order Traversal | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2023/BST%20Level-Order%20Traversal.cpp) |
+
