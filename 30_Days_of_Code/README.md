@@ -30,3 +30,5 @@
 | 23 | BST Level-Order Traversal | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2023/BST%20Level-Order%20Traversal.cpp) |
 | 24 | More Linked Lists | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2024/More%20Linked%20Lists.cpp) |
 | 25 | Running Time and Complexity | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2025/Running%20Time%20and%20Complexity.cpp) |
+| 26 | Nested Logic | 30 | [C++](https://github.com/yashml/HackerRank_Solutions/blob/master/30_Days_of_Code/Day%2026/Nested%20Logic.cpp) |
+
